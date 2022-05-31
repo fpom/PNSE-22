@@ -1,6 +1,6 @@
 # EDEN framework for interactive analysis of ecosystems models
 
-> Paper submitted to PNSE'22.
+> Paper published at PNSE'22.
 > Franck Pommereau, Colin Thomas, Cédric Gaucherel.
 > Supplementary material
 
